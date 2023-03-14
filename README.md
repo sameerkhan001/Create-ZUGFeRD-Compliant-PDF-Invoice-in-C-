@@ -10,7 +10,7 @@ This invoicing standard has multi-profile conformance:
 
 Name | Description
 --- | ---
-[ZUGFeRD-CompliantPDF](https://github.com/sameerkhan001/Create-ZUGFeRD-Compliant-PDF-Invoice-in-C-//blob/main/ZUGFeRD-Compliant-PDF) |  A ZUGFeRD PDF is PDF/A-3 compliant and has an XML file attachment specifically designed for long-term archiving.
+[ZUGFeRD-Compliant-PDF](https://github.com/sameerkhan001/Create-ZUGFeRD-Compliant-PDF-Invoice-in-C-//blob/main/ZUGFeRD-Compliant-PDF) |  A ZUGFeRD PDF is PDF/A-3 compliant and has an XML file attachment specifically designed for long-term archiving.
 
 
 # How to run the examples
